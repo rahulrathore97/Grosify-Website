@@ -25,7 +25,7 @@ const Process = () => {
 
         <div className="flex mt-5 gap-x-5">
           <div className="flex items-center ">
-            <span className="flex bg-gradient-to-b from-orange-400 to-orange-500 text-white md:w-13 w-11 h-11 md:h-13 rounded-full justify-center items-center text-3xl">
+            <span className="flex bg-linear-to-b from-orange-400 to-orange-500 text-white md:w-13 w-11 h-11 md:h-13 rounded-full justify-center items-center text-3xl">
               {item.icon}
             </span>
           </div>

@@ -68,7 +68,7 @@ const Footer = () => {
               placeholder="Email Address"
               className="h-[5vh] pl-4 flex-1 focus:outline-none"
             />
-            <button className="bg-gradient-to-b from-orange-400 to-orange-500 p-2 rounded-lg text-white text-2xl hover:to-orange-600 cursor-pointer">
+            <button className="bg-linear-to-b from-orange-400 to-orange-500 p-2 rounded-lg text-white text-2xl hover:to-orange-600 cursor-pointer">
               <IoIosArrowForward />
             </button>
           </div>
