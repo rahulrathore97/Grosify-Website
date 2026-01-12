@@ -28,7 +28,7 @@ const Hero = () => {
 
           {/* Hero Image */}
           <div className="flex-1">
-            <img src="../../assets/grocery.png" alt="Hero Image" />
+            <img src={Grocery} alt="Hero Image" />
           </div>
         </div>
       </section>
